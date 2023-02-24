@@ -1,7 +1,7 @@
 fun main() {
 
     var array = arrayOf(12, 34, 45, 57, 82, 99, 120, 134)
-    println(recursiveBinarySearch(array, 0, array.size - 1, 120))
+    println(recursiveBinarySearch(array, 0, array.size - 1, 12))
 }
 
 
