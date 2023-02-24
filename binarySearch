@@ -1,0 +1,18 @@
+fun binarySearch(lo: Int, hi: Int, array: ArrayList<Int>, fideIt: Int): Int {
+    var a = lo
+    var b = hi
+    while (b >= a) {
+        var mid = (a + b) / 2
+
+
+        if (array[mid] < fideIt) {
+            a = mid+1
+        } else if (array[mid] > fideIt) {
+            b = mid-1
+        }
+        else
+            println(mid)
+    }
+
+    return -1
+}
