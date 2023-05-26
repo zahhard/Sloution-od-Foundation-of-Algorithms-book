@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/(section2.1_7)find_max_with_devide_and_conquer/(section2.1_7)find_max_with_devide_and_conquer.iml" filepath="$PROJECT_DIR$/(section2.1_7)find_max_with_devide_and_conquer/(section2.1_7)find_max_with_devide_and_conquer.iml" />
       <module fileurl="file://$PROJECT_DIR$/(section2.2_8)merge_sort/(section2.2_8)merge_sort.iml" filepath="$PROJECT_DIR$/(section2.2_8)merge_sort/(section2.2_8)merge_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Sloution-od-Foundation-of-Algorithms-book.git.iml" filepath="$PROJECT_DIR$/.idea/Sloution-od-Foundation-of-Algorithms-book.git.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic_programming_1_bionomial_coefficient/dynamic_programming_1_bionomial_coefficient.iml" filepath="$PROJECT_DIR$/dynamic_programming_1_bionomial_coefficient/dynamic_programming_1_bionomial_coefficient.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic_programming_3_chained_matrix_multiplication/dynamic_programming_3_chained_matrix_multiplication.iml" filepath="$PROJECT_DIR$/dynamic_programming_3_chained_matrix_multiplication/dynamic_programming_3_chained_matrix_multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_programming_4_BST/dynamic_programming_4_BST.iml" filepath="$PROJECT_DIR$/dynamic_programming_4_BST/dynamic_programming_4_BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/daynamic_programming_algorithms/dynamic_programming_algorithms.iml" filepath="$PROJECT_DIR$/daynamic_programming_algorithms/dynamic_programming_algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/fun4_1(prime_algorithm)/fun4_1(prime_algorithm).iml" filepath="$PROJECT_DIR$/fun4_1(prime_algorithm)/fun4_1(prime_algorithm).iml" />
       <module fileurl="file://$PROJECT_DIR$/removing_unnecessery_operations_of_main_recursive_binary_search(section2.1_3)/prime_algolithm.iml" filepath="$PROJECT_DIR$/removing_unnecessery_operations_of_main_recursive_binary_search(section2.1_3)/prime_algolithm.iml" />
