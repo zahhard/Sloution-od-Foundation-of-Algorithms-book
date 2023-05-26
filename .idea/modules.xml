@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/(D&amp;C) - QuickSort/(D&amp;C) - QuickSort.iml" filepath="$PROJECT_DIR$/(D&amp;C) - QuickSort/(D&amp;C) - QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/(section2.1_7)find_max_with_devide_and_conquer/(section2.1_7)find_max_with_devide_and_conquer.iml" filepath="$PROJECT_DIR$/(section2.1_7)find_max_with_devide_and_conquer/(section2.1_7)find_max_with_devide_and_conquer.iml" />
       <module fileurl="file://$PROJECT_DIR$/(section2.2_8)merge_sort/(section2.2_8)merge_sort.iml" filepath="$PROJECT_DIR$/(section2.2_8)merge_sort/(section2.2_8)merge_sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
