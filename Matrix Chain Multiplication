@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 26 13:56:39 2023
+
+@author: Zahra
+"""
+
+
+maxint = int(1e9 + 7)
+
+
+
+def matrixChained (n,  p):
+    
+    m = [[-1 for i in range(n)] for j in range(n)]
+
+    
+    for i in range(1, n):
+        m[i][i] = 0
+    
+    for t in range (2 , n):
+        
+        for i in range (1 , n-t + 1):
+            j = i + t - 1
+            m[i][j] = maxint
+            
+            for k in range (i, j):
+                temp = m[i][k] + m[k + 1][j] + p[i - 1] * p[k] * p[j]
+                if (temp < m[i][j]):
+                    m[i][j] = temp
+ 
+    return m[i][n-1]
+    
+    
+arr = [1, 2, 3, 4]
+size = len(arr)
+ 
+print("Minimum number of multiplications is " +
+      str(matrixChained(size, arr)))
+    
